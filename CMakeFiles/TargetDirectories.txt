@@ -1,0 +1,3 @@
+/home/rm/ClionProjects/SIK/CMakeFiles/Master.dir
+/home/rm/ClionProjects/SIK/CMakeFiles/Player.dir
+/home/rm/ClionProjects/SIK/CMakeFiles/Tests.dir
